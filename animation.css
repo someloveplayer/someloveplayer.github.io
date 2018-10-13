@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 
 
@@ -20,23 +19,3 @@ body{
 
 
 
-=======
-
-
-
-body
-{
-background: linear-gradient(240deg,rgba(17, 203, 209, 0.582), rgb(92, 201, 64));
-background-size: 300% 400%;
-}
-
-body{
-    animation: loop 10s ease infinite;
-}
-
-@keyframes loop{
-    0%{background-position: 0% 50%;}
-    50%{background-position: 100% 0%;}
-    100%{background-position: 0% 50%;}
-}
->>>>>>> 6fd90227ec21e785155bd88cf4fb24d05532b08f
