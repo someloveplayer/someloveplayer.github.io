@@ -28,12 +28,27 @@ margin: 50px;
 
 
 }
+/*
+Stuff thats no font and no class
+Down here
+*/
+
+form{
+    display: inline;
+}
+
+
+
+
 
 
 
 /*
 Classes Down there
 */
+
+
+
 .button{
 
     background-color: darkred;
