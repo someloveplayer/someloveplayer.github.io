@@ -1,8 +1,9 @@
 
 
 
+body
 {
-background: linear-gradient(240deg,rgba(17, 203, 209, 0.582), rgb(92, 201, 64));
+background: linear-gradient(240deg,rgba(255, 255, 255, 0.582), rgb(79, 192, 154));
 background-size: 300% 400%;
 }
 
@@ -15,3 +16,6 @@ body{
     50%{background-position: 100% 0%;}
     100%{background-position: 0% 50%;}
 }
+
+
+
